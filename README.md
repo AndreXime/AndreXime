@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AndreXimenes
+- 👋 Hi, I’m Andre
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning HTML and JavaScript
 
