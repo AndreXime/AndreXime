@@ -1,9 +1,5 @@
-👋 Olá, sou André
+Meet André, a student of computer science from Brasil. 
+Most of the time playing with C or Web Development, but trying other technologis too. 
+I am always looking for new challenges and learning opportunities.
 
-🌱 Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento web, aprofundando-me em Python e C.
-
-✨ Em busca de me tornar um desenvolvedor completo. Estou  aberto a explorar outras tecnologias, caso isso seja necessário para o projeto ou equipe.
-
-🚀 Estou sempre em busca de novos desafios e oportunidades de aprendizado. Se você é um recrutador em busca de um desenvolvedor dedicado e em constante evolução, estou pronto para fazer parte de sua equipe.
-
-Vamos criar coisas incríveis juntos! 🤝
+Let's create amazing things together! 🤝
