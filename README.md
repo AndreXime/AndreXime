@@ -39,9 +39,3 @@ Bacharelado em Ciências da Computação - De 2022 até presente</p>
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreXime&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
