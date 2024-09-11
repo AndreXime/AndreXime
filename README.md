@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">My name is André Ximenes and I'm a Backend Developer, from Brasil</p>
+<p align="left">My name is André Ximenes and I'm a Developer from Brasil</p>
 
 ###
 
-<p align="left">I'm 20 years old and I'm studying Computer Science, I live in the interior of Ceará and I've been fascinated by the area of ​​technology since an early age, my first contact was in high school in a programming olympiad, from then on I've been looking to learn interesting technologies. I am looking for opportunities to apply my knowledge in a professional project.</p>
+<p align="left">I'm 20 years old, I'm a Computer Science student and I live in the interior of Ceará. Since high school, where I participated in the OBI (Brazilian Informatics Olympiad), I developed a strong interest in the area of ​​technology. Along this journey, I discovered a passion for solving problems, applying technological knowledge where it fit. Since then, I have dedicated myself to continually learning new technologies and am looking for opportunities to apply my knowledge in a professional environment.</p>
 
 ###
 
