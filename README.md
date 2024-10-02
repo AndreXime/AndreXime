@@ -2,10 +2,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">My name is André Ximenes and I'm a Developer from Brasil</p>
 
 ###
@@ -41,5 +37,3 @@ Bacharelado em Ciências da Computação - De 2022 até presente</p>
   <img width="10"/>
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="30"/>
 </div>
-
-###
