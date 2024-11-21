@@ -7,7 +7,10 @@
 ###
 
 <p align="left">
-Tenho 20 anos, sou estudante de Ciência da Computação e moro no interior do Ceará. Desde o ensino médio, onde participei da OBI (Olimpíada Brasileira de Informática), desenvolvi um forte interesse na área de tecnologia. Ao longo dessa jornada, descobri uma paixão por resolver problemas, aplicando conhecimentos tecnológicos onde fosse apropriado. Desde então, tenho me dedicado a aprender continuamente novas tecnologias e estou em busca de oportunidades para aplicar meu conhecimento em um ambiente profissional.
+Sou estudante de Ciências da Computação, tenho 21 anos e resido no Ceará. Participei da OBI (Olimpíada Brasileira de
+Informática) no ensino médio, e desenvolvi um interesse por tudo de tecnologia. Comprometido com o aprendizado
+constante de novas ferramentas e tecnologias, busco oportunidades para aplicar meus conhecimentos em projetos
+inovadores para melhorar a vida das pessoas. Sou autodidata, proativo e dedicado ao meu crescimento contínuo
 </p>
 
 ###
