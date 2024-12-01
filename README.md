@@ -7,7 +7,8 @@
 ###
 
 <p align="left">
-Sou um desenvolvedor web fullstack, natural do Ceará, atualmente cursando o 5° semestre de Ciências da Computação. Tenho 21 anos e em busca de novos desafios e aprendizados no universo da tecnologia e sempre me atualizando com as últimas tendências e práticas.
+Sou um desenvolvedor web fullstack, tenho 21 anos e natural do Ceará, atualmente cursando o 5° semestre de Ciências da Computação. <br>
+Busco de novos desafios e aprendizados no universo da tecnologia me atualizando com as últimas tendências e práticas.
 </p>
 
 ###
