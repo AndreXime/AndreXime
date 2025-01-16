@@ -21,7 +21,6 @@ Estou surfando no hype da tecnologia
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="30">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" />
 </div>
 
 <h3 align="left">Banco de dados</h3>
@@ -35,8 +34,7 @@ Estou surfando no hype da tecnologia
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30"  />
   <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/JWT-red?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/REST_API-blue?style=for-the-badge&logo=serverless&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" />
 </div>
 
 
