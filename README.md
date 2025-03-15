@@ -5,8 +5,7 @@
 <h3 align="left">Meu nome é André Ximenes</h3>
 
 <p align="left">
-Sou um desenvolvedor web fullstack, tenho 21 anos e natural do Ceará, atualmente cursando o 5° semestre de Ciências da Computação.
-Estou surfando no hype da tecnologia
+Sou um desenvolvedor web fullstack, atualmente cursando o 5° semestre de Ciências da Computação.
 </p>
 
 ###
