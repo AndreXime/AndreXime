@@ -3,11 +3,11 @@
 
 ###
 
-<h2 align="left">Linguagens e ferramentas</h2>
+<h2 align="left">Minhas tecnologias</h2>
 
 <h3 align="left">Frontend:</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,tailwind,nextjs,react&titles=true">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,tailwind,nextjs,react&titles=true">
 <h3 align="left">Backend:</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=golang,gorm,ts,express,prisma,postgres,jwt">
-<h3 align="left">Ferramentas</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,git,nginx,linux,vscode,github,jest,vercel">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=golang,gin,ts,express,prisma,postgres,jwt">
+<h3 align="left">Devops</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,git,nginx,linux,github">
