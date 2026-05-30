@@ -1,9 +1,8 @@
 # Oi <img src="assets/wave.gif" width="30px" alt="Aceno" title="Aceno"> me chamo André
-## Trabalho com Desenvolvimento Fullstack
 
-Contribuo em backend e frontend. No backend, uso Nestjs ou Hono para APIs objetivas, seguras e previsíveis. No frontend, cuido da experiência do usuário (UX e UI) com telas claras e funcionais, hoje principalmente com React/Next.js ou Astro.
+Sou desenvolvedor focado no desenvolvimento de backend com TypeScript, utilizando ferramentas como Node.js, Bun e Hono para estruturar microsserviços e APIs estáveis. Por ter experiência prévia como fullstack trabalhando com Next.js, possuo uma visão holística do ecossistema: sei exatamente como o frontend consome os dados, o que me permite projetar rotas mais eficientes, seguras e com excelente documentação.
 
-Busco código claro e bem estruturado, no espírito de Clean Code, para facilitar revisão e evolução no dia a dia do time. Equilibro cuidado técnico com pragmatismo. Quando uma solução menor já resolve, evito complicar além do necessário. Entendo que visão de longo prazo no código amadurece com tempo, revisão e contexto de produto. Foco em entregar com consistência, aprender com feedback e ir deixando o que toco mais sólido aos poucos. 
+Escrevo código limpo e modular, focado em facilitar a manutenção e a escala do software. Entendo que o amadurecimento técnico vem com o contexto de produto e colaboração, por isso priorizo a consistência nas entregas, o aprendizado contínuo com o time e a construção de soluções que resolvam desafios de engenharia sem complexidade desnecessária. 
 
 ## Minha Stack
 Não é uma lista de tudo que já usei, são as que mais pesam no que entrego hoje. Fora delas entram outras conforme o problema e sigo aprendendo o que fizer sentido em cada projeto.  
