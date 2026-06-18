@@ -70,3 +70,18 @@ Passe o mouse por cima para ver o nome das tecnologias
   <img src="assets/icons/bun.svg" alt="Bun" title="Bun" height="40" />
   &nbsp;&nbsp;
 </div>
+
+## Projetos em destaque
+
+| Projeto | Descrição |
+|---------|-----------|
+| [**deploy-talent**](https://github.com/AndreXime/deploy-talent) | ATS multi-tenant com NestJS e Next.js |
+| [**ecommerce**](https://github.com/AndreXime/ecommerce) | Loja full-stack com Astro, Hono, PostgreSQL e Redis |
+| [**ollama-oracle**](https://github.com/AndreXime/ollama-oracle) | Chatbot com RAG local (Ollama + ChromaDB), API Fastify e UI React |
+| [**chat-support**](https://github.com/AndreXime/chat-support) | Atendimento em tempo real com tickets e WebSocket |
+
+## Contato
+
+- **Site:** [andreximenes.xyz](https://andreximenes.xyz)
+- **LinkedIn:** [linkedin.com/in/andreximenesdev](https://www.linkedin.com/in/andreximenesdev)
+- **E-mail:** [andreximenesa20@gmail.com](mailto:andreximenesa20@gmail.com)
